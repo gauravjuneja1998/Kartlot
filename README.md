@@ -1,2 +1,0 @@
-# Kartlot
-Created with CodeSandbox
